@@ -15,3 +15,7 @@ To install the dependencies, please run ```npm install``` in your terminal
 
 ## Deployment and Build
 I only built the app in android version using apk build. [click here to download it](https://drive.google.com/file/d/1v4s5uy_ZRhbQVZd629TchQvzz9mcewsf/view?usp=sharing "My Project")
+
+<p align='center'>
+  <img width=300 height=500 src="https://github.com/ahmedheakl/Movie-Browser-App/blob/main/movie_browser_preview.jpg"> 
+</p> 
